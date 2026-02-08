@@ -5,7 +5,7 @@
 🚀 Flutter Developer | Mobile App Engineer  
 📍 Bangladesh  
 
-![Visitors](https://komarev.com/ghpvc/?username=sayedulmorsalin&color=blueviolet)
+<!--![Visitors](https://komarev.com/ghpvc/?username=sayedulmorsalin&color=blueviolet)-->
 
 ---
 
