@@ -38,7 +38,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![](https://streak-stats.demolab.com?user=sayedulmorsalin&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=sayedulmorsalin&theme=dark&hide_border=false&cache_seconds=3600&v=2)
 
 ## 📊 GitHub Stats
 ![](https://marsalin-github-readme-stats.vercel.app/api?username=sayedulmorsalin&show_icons=true&theme=tokyonight)
